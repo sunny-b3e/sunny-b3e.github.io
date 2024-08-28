@@ -1,0 +1,47 @@
+body{
+    background-color: #d4f3ff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color: #01125b;
+}
+
+h1{
+    color: #01125b;
+    text-align: center;
+}
+.symp{
+    font-size: 16px;
+}
+#search-bar{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #0166a1;
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
+  }
+  
+#search-bar li {
+    float: left;
+  }
+  
+#search-bar li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+#search-bar li a:hover {
+    background-color: #01125b;
+  }
+  
+#search-bar li a:active {
+    background-color: #61b5fa;
+    color: #01125b;
+  }
+
+
