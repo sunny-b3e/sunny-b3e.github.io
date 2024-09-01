@@ -12,9 +12,7 @@ h1{
 .symp{
     font-size: 16px;
 }
-#sui{
 
-}
 #search-bar{
     list-style-type: none;
     margin: 0;
@@ -62,4 +60,5 @@ h1{
   position: fixed;
   top: 0px;
   right: 0px;
+  font-size: 20px;
 }
